@@ -1,0 +1,39 @@
+C:\Users\gutem\source\repos\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.exe
+C:\Users\gutem\source\repos\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.deps.json
+C:\Users\gutem\source\repos\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.json
+C:\Users\gutem\source\repos\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.dev.json
+C:\Users\gutem\source\repos\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.dll
+C:\Users\gutem\source\repos\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.pdb
+C:\Users\gutem\source\repos\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfoInputs.cache
+C:\Users\gutem\source\repos\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfo.cs
+C:\Users\gutem\source\repos\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\gutem\source\repos\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.dll
+C:\Users\gutem\source\repos\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.pdb
+C:\Users\gutem\source\repos\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.genruntimeconfig.cache
+C:\Users\gutem\source\repos\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.csproj.AssemblyReference.cache
+C:\Users\gutem\source\repos\Pra testes\Hello World\bin\Debug\netcoreapp3.1\Hello World.exe
+C:\Users\gutem\source\repos\Pra testes\Hello World\bin\Debug\netcoreapp3.1\Hello World.deps.json
+C:\Users\gutem\source\repos\Pra testes\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.json
+C:\Users\gutem\source\repos\Pra testes\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.dev.json
+C:\Users\gutem\source\repos\Pra testes\Hello World\bin\Debug\netcoreapp3.1\Hello World.dll
+C:\Users\gutem\source\repos\Pra testes\Hello World\bin\Debug\netcoreapp3.1\Hello World.pdb
+C:\Users\gutem\source\repos\Pra testes\Hello World\obj\Debug\netcoreapp3.1\Hello World.csproj.AssemblyReference.cache
+C:\Users\gutem\source\repos\Pra testes\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfoInputs.cache
+C:\Users\gutem\source\repos\Pra testes\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfo.cs
+C:\Users\gutem\source\repos\Pra testes\Hello World\obj\Debug\netcoreapp3.1\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\gutem\source\repos\Pra testes\Hello World\obj\Debug\netcoreapp3.1\Hello World.dll
+C:\Users\gutem\source\repos\Pra testes\Hello World\obj\Debug\netcoreapp3.1\Hello World.pdb
+C:\Users\gutem\source\repos\Pra testes\Hello World\obj\Debug\netcoreapp3.1\Hello World.genruntimeconfig.cache
+C:\Users\gutem\Projetos .NET\Pra testes\Hello World\bin\Debug\netcoreapp3.1\Hello World.exe
+C:\Users\gutem\Projetos .NET\Pra testes\Hello World\bin\Debug\netcoreapp3.1\Hello World.deps.json
+C:\Users\gutem\Projetos .NET\Pra testes\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.json
+C:\Users\gutem\Projetos .NET\Pra testes\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.dev.json
+C:\Users\gutem\Projetos .NET\Pra testes\Hello World\bin\Debug\netcoreapp3.1\Hello World.dll
+C:\Users\gutem\Projetos .NET\Pra testes\Hello World\bin\Debug\netcoreapp3.1\Hello World.pdb
+C:\Users\gutem\Projetos .NET\Pra testes\Hello World\obj\Debug\netcoreapp3.1\Hello World.csproj.AssemblyReference.cache
+C:\Users\gutem\Projetos .NET\Pra testes\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfoInputs.cache
+C:\Users\gutem\Projetos .NET\Pra testes\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfo.cs
+C:\Users\gutem\Projetos .NET\Pra testes\Hello World\obj\Debug\netcoreapp3.1\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\gutem\Projetos .NET\Pra testes\Hello World\obj\Debug\netcoreapp3.1\Hello World.dll
+C:\Users\gutem\Projetos .NET\Pra testes\Hello World\obj\Debug\netcoreapp3.1\Hello World.pdb
+C:\Users\gutem\Projetos .NET\Pra testes\Hello World\obj\Debug\netcoreapp3.1\Hello World.genruntimeconfig.cache
